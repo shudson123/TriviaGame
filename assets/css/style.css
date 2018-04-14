@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://media.istockphoto.com/photos/assortment-of-fruits-and-vegetables-background-picture-id139496979");
+}
+#container {
+    background: lightgreen;
+    width: 70%;
+    margin-left: 15%;
+    height: 700px;
+    overflow: auto;
+}
+#main-container {
+    background: white;
+    width: 70%;
+    margin-left: 15%;
+    height: 1050px;
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+    color: red;
+}
+#countDown{
+    width: 100%;
+    text-align: center;
+    color: red;
+}
+#question {
+    width: 100%;
+    text-align: center;
+    color: red;
+}
+#answerOptions {
+    width: 80%;
+    margin-left: 20%;
+    color: red;
+}
+#image-holder {
+    width: 100%;
+    height: 200px;
+    background: white;
+}
+#picture {
+    width: 400;
+    height: 200px;
+}
